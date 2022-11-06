@@ -1,0 +1,62 @@
+Process water
+
+<
+7 <
+=4 7
+600 volts. N =
+05-150-CV0O-02-M01 =
+<
+@ <
+Ball mill feed conveyor motor S (7]
+05-150-CV0O-02-M01 N E
+Stock pile
+<
+Qo <
+o O
+R 2
+=
+Ball mill feed conveyor
+05-150-CV0O-02
+4 160 volt
+05-150-BML-01-M01 Ball mill main drive
+05-150-BML-01-M01 Spray bar 600 volts
+05-150-CV0O-01-M01
+600 volts ) VF-015 <
+Ball mill T
+05-150-BML-01-M02 Ball mill inching drive 05-150-BML-01 2
+05-150-BML-01-M02 @ 5
+=3
+o @
+LN
+o ®
+<|3 Q
+Vibrating screen 2 8
+05-150-SCR-01 Spray bar o2
+Q2
+600 volts =8
+3
+05-150-SCR-01-M01 Vibrating screen motor 3
+05-150-SCR-01-M01 S
+Vibrating screen
+05-150-SCR-02
+
+Oversized conveyor
+05-150-CVO-01
+
+Vibrating screen motor
+05-150-SCR-02-M01
+
+600 volts.
+05-150-SCR-02-M01
+Slurry pump
+05-150-PMP-01
+To Flotation conditioner tank
+05-250-TNK-01
+VF-016
+ﬂ 600 volts
+05-150-PMP-01-M01
+
+Slurry pump motor
+
+Pump box 05-150-PMP-M01
+05-150-PBO-01
